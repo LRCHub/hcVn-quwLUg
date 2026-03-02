@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "OD",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-03-02T10:54:03.752526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OD",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/01_OD_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OD",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/02_OD_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Od Yesh Homa",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/03_Od_Yesh_Homa_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Od Yesh Homa (2005 Remaster)",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/04_Od_Yesh_Homa_(2005_Remaster)_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "OD",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/05_OD_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Od Slatrom Ekil",
+      "artist": "The Ark",
+      "has_synced": false,
+      "path": "select/06_Od_Slatrom_Ekil_The_Ark.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If Love Is The Drug Then I Want To OD (Bonus Track)",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": true,
+      "path": "select/07_If_Love_Is_The_Drug_Then_I_Want_To_OD_(Bonus_Track)_The_Brian_Jonestown_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snovi Od Stakla",
+      "artist": "Nedeljko Bajic Baja",
+      "has_synced": false,
+      "path": "select/08_Snovi_Od_Stakla_Nedeljko_Bajic_Baja.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pesma Od Bola",
+      "artist": "ACA LUKAS",
+      "has_synced": false,
+      "path": "select/09_Pesma_Od_Bola_ACA_LUKAS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Totalno Drukčiji Od Drugih",
+      "artist": "Vještice",
+      "has_synced": false,
+      "path": "select/10_Totalno_Drukčiji_Od_Drugih_Vještice.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Srce Od Silikona",
+      "artist": "Darko Lazic",
+      "has_synced": false,
+      "path": "select/11_Srce_Od_Silikona_Darko_Lazic.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Od Yesh Homa (Bonus Track)",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/12_Od_Yesh_Homa_(Bonus_Track)_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brod od papira",
+      "artist": "Van Gogh",
+      "has_synced": false,
+      "path": "select/13_Brod_od_papira_Van_Gogh.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ima Nešto Od Srca Do Srca",
+      "artist": "Crvena Jabuka",
+      "has_synced": true,
+      "path": "select/14_Ima_Nešto_Od_Srca_Do_Srca_Crvena_Jabuka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ima Nesto Od Srca Do Srca",
+      "artist": "Crvena Jabuka",
+      "has_synced": true,
+      "path": "select/15_Ima_Nesto_Od_Srca_Do_Srca_Crvena_Jabuka.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't OD",
+      "artist": "GASHI",
+      "has_synced": true,
+      "path": "select/16_Don't_OD_GASHI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "700 Milja Od Kuće - Live In Pula",
+      "artist": "Parni Valjak",
+      "has_synced": true,
+      "path": "select/17_700_Milja_Od_Kuće_-_Live_In_Pula_Parni_Valjak.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "700 Milja Od Kuće (Live Sava Centar Bg)",
+      "artist": "Parni Valjak",
+      "has_synced": true,
+      "path": "select/18_700_Milja_Od_Kuće_(Live_Sava_Centar_Bg)_Parni_Valjak.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ako me voliš idi od mene",
+      "artist": "Aco Pejovic",
+      "has_synced": false,
+      "path": "select/19_Ako_me_voliš_idi_od_mene_Aco_Pejovic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OD",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_OD_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
